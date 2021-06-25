@@ -1,0 +1,127 @@
+*{
+	margin: auto;
+
+}
+.text1{
+	font-size: 26.8px;
+	font-family: 'Philosopher', sans-serif;
+	padding-left: 396px;
+	padding-top: 5.5px;
+	color: #505050;
+	display: inline-block;
+	letter-spacing: 1.5px;
+
+}
+
+.list{
+	width: 650px;
+	float: right;
+	padding-right:435px;
+	padding-top: 13px;
+}
+.list ul {
+	display: flex;
+	font-size: 14px;
+	padding: 1px;
+	list-style: none;
+
+}
+.list a{
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #505050;
+	font-weight: bolder;
+}
+.list a:hover{
+	color: #71c55d;
+	cursor: pointer;
+}
+.text2{
+	padding-top: 130px;
+	font-size: 25px;
+	color: #71c55d;
+	font-family: "Philosopher", sans-serif;
+	letter-spacing: 2px;
+}
+.text3{
+	font-size: 21px;
+	padding-top: 5px;
+	color: #778899;
+	font-family: 'Roboto', sans-serif;
+
+}
+.img1 {
+	margin-top: 30px;
+	padding-left: 570px;
+}
+.button1{
+	padding-left: 865px;
+	padding-top: 33px;
+}
+.button1 button{
+	width: 170px;
+	height: 45px;
+	border-color:#71c55d;
+	border-radius: 30px;
+	border: 2px solid #71c55d;
+	background-color: white;
+	color: #71c55d;
+}
+.button1 button:hover{
+	cursor: pointer;
+	background-color: #71c55d;
+	color: white;
+
+}
+.texts1 {
+	padding-left: 800px;
+	padding-top: 33px;
+	font-size: 11px;
+	display: inline-block;
+	background-color: blue;
+}
+.texts1 p{
+	letter-spacing: 3px;
+}
+.texts2 {
+	float: right;
+	padding-right: 850px;
+	padding-top: 33px;
+	font-size: 11px;
+	background-color: red;
+	width: 1px;
+	height: 20px;
+}
+.texts2 p{
+	letter-spacing: 3px;
+
+}
+.texts3 {
+	float: right;
+	padding-right: 910px;
+	padding-top: 33px;
+	font-size: 11px;
+
+}
+.texts3 p{
+	letter-spacing: 3px;
+
+}
+.kekena{
+	color: #555;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 4px 20px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.kekena p:hover{
+	color: #71c55d;
+	cursor: pointer;
+
+}
+.icon{
+	float: left;
+}
+
